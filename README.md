@@ -1,5 +1,21 @@
-# cyber
+# Cyber
 A repository for teaching material and notes for teaching CyberSecurity
+
+[Blockchain](#blockchain)
+
+## Blockchain
+
+Blockchain has many features which are desirable such as
+
+* Immutability
+* Automation
+* Decentralisation
+
+App developers can now use Blockchain to create a permanent record of the progress of work in development of an app.  Every aspect of the development of the app can be tracked and verified.
+
+Blockchain can also provide levels of encryption which cannot be hacked without the permission of the developer.
+
+Blockchain has a low cost of entry and a relatively high return on investment.
 
 <pre>
 
