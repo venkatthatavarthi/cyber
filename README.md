@@ -1,9 +1,29 @@
 # Cyber
+
 A repository for teaching material and notes for teaching CyberSecurity
 
-[Blockchain](#blockchain)
+## Contents
 
-## Blockchain
+- [Cyber](#cyber)
+	- [Contents](#contents)
+	- [Cyber Tools](#cyber-tools)
+		- [Blockchain](#blockchain)
+		- [JRAT Remote Access Trojan](#jrat-remote-access-trojan)
+		- [Mimikatz](#mimikatz)
+		- [net user](#net-user)
+		- [net groups](#net-groups)
+		- [shares](#shares)
+		- [sharepoint](#sharepoint)
+		- [wireshark](#wireshark)
+		- [responder](#responder)
+		- [hashcat](#hashcat)
+		- [Wordscrape - go through whole intranet](#wordscrape---go-through-whole-intranet)
+		- [Targeted Spray](#targeted-spray)
+		- [Sysvol](#sysvol)
+
+## Cyber Tools
+
+### Blockchain
 
 Blockchain has many features which are desirable such as
 
@@ -16,6 +36,118 @@ App developers can now use Blockchain to create a permanent record of the progre
 Blockchain can also provide levels of encryption which cannot be hacked without the permission of the developer.
 
 Blockchain has a low cost of entry and a relatively high return on investment.
+
+### Crimeware - General Tools
+
+Crimeware : scan internet for vulernabilities
+
+### JRAT Remote Access Trojan
+
+JRAT Remote Access Trojan - malware which can turn on your camera, install a remote shell
+
+### Mimikatz
+
+mimikatz : can read plain text usernames and passwords on a Windows computer
+
+### net user
+
+net user /domain - info about users in the domain
+
+### net groups
+
+net groups domainadmins - info about domain admins etc
+
+net groups domaincontrollers /domain - information about groups in the domain
+
+### shares
+
+Shares - provide useful information
+
+### sharepoint
+
+Sharepoint - can be used to glean information about the network
+
+### Targeted Attack And Tools
+
+With a specific target in mind
+
+### wireshark
+
+wireshark : used to glean hardware and hostnames
+
+### responder
+
+responder : responds to DNS broadcasts and deceives computers into revealing their NTLMv2 salted hash
+
+### hashcat
+
+Hashcat - brute force hash-cracking tool. 
+
+### Wordscrape - go through whole intranet
+
+### Targeted Spray
+
+### Sysvol
+
+Sysvol : Copy all data from it eg scripts, users, usernames, hostnames, group policies, groups
+
+powershell empire
+
+evil jinks : phishing platform
+
+Kim Zetter : Stuxnet was US and Israel.  Book - Countdown to zeroday
+
+CyberArk bought Conjur who deal with DevOps
+
+CybarArk bought Vaultive who deal with cloud security
+
+"Cyber-Ark® Software is a global information
+security company that specializes in protecting,
+managing and monitoring privileged
+users, applications and sensitive information
+to improve compliance, productivity and protect
+organizations against insider threats and advanced
+external threats – even more so with the spate of
+recent high profile cyber-attacks. "	
+	
+Cyborg Security   https://www.ccfis.net/	
+
+Skytap cloud migration   https://www.skytap.com/	
+	
+EDR Endpoint Detection and Response (eg Antivirus)	
+
+NGAV Next Generation Anti Virus : has AV + detects common attack vectors with both client/server detection	
+
+Cybereason : competitor	
+
+CIS Center for Internet Security   cisecurity.org	
+
+CIS controls : Hardware assets, Software assets, Vulnerabilities, Admin Privileges, Secure Config on Client/Servers, Log monitoring, Email, Browser, Malware, Network ports & protocols, Data recovery, Firewall/Router/Switch config, Boundary Defence, Training, App security, Incident Response, Pen Tests	
+
+ISO 27001
+	
+	Describes ISMS Info Security Management System = set of policies and procedures for managing sensitive data 
+	
+ISO 9001
+
+	Quality Management System 
+	
+Plan-do-check-act
+
+Get a VPN, connect to TOR, buy drugs online.
+
+Alpha bay is the most popular drugs market to ever exist.
+
+bay words : blog posts which cannot be taken down
+
+rapidshare 32 million passwords
+
+With TOR your location is masked.  Use VPN also for extra security.
+
+.onion sites are on the dark web
+
+
+
 
 <pre>
 
