@@ -95,7 +95,13 @@ powershell empire
 
 evil jinks : phishing platform
 
-Kim Zetter : Stuxnet was US and Israel.  Book - Countdown to zeroday
+## Books
+
+### Countdown To ZeroDay
+
+Kim Zetter : Stuxnet was US and Israel.
+
+## Cyber
 
 CyberArk bought Conjur who deal with DevOps
 
